@@ -11,8 +11,8 @@ The CEO of PyBer would like an analysis done of their ride-share data from Janua
 
 ## Results
 ###Summary DataFrame
-![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/Summary_DataFrame.png) 
+![alt text](https://github.com/thehatch4815162342/PyBear_Analysis/blob/main/images/Summary%20DataFrame.png) 
 ###Total Fare by City Type
-![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/analysis/PyBer_fare_summary.png) 
+![alt text](https://github.com/thehatch4815162342/PyBear_Analysis/blob/main/analysis/PyBer_fare_summary.png) 
 
 ## Summary
