@@ -17,12 +17,12 @@ The CEO of PyBer would like an analysis done of their ride-share data from Janua
 - Rural and Suburban areas have significantly less total drivers than Urban areas
 - Urban areas combined have the most total fares with approximately $40,000
 - Rural areas have a higher average fare per rides compared to Urban and Suburban areas
-- Rural areas have a higher average fare per driver compared to Urban and Suburban areas
+- Rural areas have a higher average fare per drivers compared to Urban and Suburban areas
 
 ### Total Fare by City Type
 ![alt text](https://github.com/thehatch4815162342/PyBear_Analysis/blob/main/analysis/PyBer_fare_summary.png) 
 
-- From January to April, Urban areas have the most fares per week while Rural areas have the lowest
+- From January to April, Urban areas have the highest fares per week while Rural areas have the lowest
 
 ## Summary
 Based on these results, 
