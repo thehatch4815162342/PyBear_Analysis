@@ -23,6 +23,7 @@ The CEO of PyBer would like an analysis done of their ride-share data from Janua
 ![alt text](https://github.com/thehatch4815162342/PyBear_Analysis/blob/main/analysis/PyBer_fare_summary.png) 
 
 - From January to April, Urban areas have the highest fares per week while Rural areas have the lowest
+- The last week of Feburary appears to be the most profitable week for each city type
 
 ## Summary
-Based on these results, 
+Based on these results, I would recommend that they find more drivers for rural areas due to the total amount of rides surpassing the total amount of drivers. I would also recommend increasing the amount of drivers for Suburban areas for similar reasons. Lastly, I would recommend a small decrease in rural fares. The high price could be deterring potential customers from seeking rides.
