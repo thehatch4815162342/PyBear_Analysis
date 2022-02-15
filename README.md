@@ -22,7 +22,7 @@ The CEO of PyBer would like an analysis done of their ride-share data from Janua
 ### Total Fare by City Type
 ![alt text](https://github.com/thehatch4815162342/PyBear_Analysis/blob/main/analysis/PyBer_fare_summary.png) 
 
-- From January to April, Urban areas have the highest fares per week while Rural areas have the lowest
+- From January to April, Urban areas have the highest total fares per week while Rural areas have the lowest
 - The last week of Feburary appears to be the most profitable week for each city type
 
 ## Summary
